@@ -5,5 +5,5 @@ ftxui/6.0.2
 CMakeDeps
 CMakeToolchain
 
-#[layout]
-#cmake_layout
+[layout]
+cmake_layout

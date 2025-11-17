@@ -21,7 +21,7 @@ all: init config build
 # Ajuda
 help:
 	@echo "$(CYAN)╔════════════════════════════════════════════╗$(NC)"
-	@echo "$(CYAN)║       FTXUI Demo - Build System          ║$(NC)"
+	@echo "$(CYAN)║       FTXUI Demo - Build System            ║$(NC)"
 	@echo "$(CYAN)╚════════════════════════════════════════════╝$(NC)"
 	@echo ""
 	@echo "$(BLUE)📦 Comandos disponíveis:$(NC)"
